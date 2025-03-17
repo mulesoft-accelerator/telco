@@ -1,2 +1,2 @@
-# telco
+# MuleSoft Telecommunication Accelerator
 A MuleSoft jumpstart for the Telecommunication industry supporting TMF and MEF standards.
